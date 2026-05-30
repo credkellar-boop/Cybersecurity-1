@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="watermarked_img_4875133698816782272.png" alt="Cybersecurity-1 Academy Logo" width="600">
+![Cybersecurity-1 Academy Logo](watermarked_img_4875133698816782272.png)
 </p>
 <div align="center">
 
