@@ -1,4 +1,7 @@
-![Cybersecurity-1 Academy Logo](watermarked_img_4875133698816782272.png)
+<p align="center">
+  <img src="1780123590153.png" alt="Cybersecurity-1 Academy Logo" width="600">
+</p>
+
 </p>
 <div align="center">
 
