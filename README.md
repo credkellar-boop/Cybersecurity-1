@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="watermarked_img_4875133698816782272.png" alt="Cybersecurity-1 Academy Logo" width="600">
+</p>
 <div align="center">
 
 # 🛡️ Cybersecurity-1 Academy
