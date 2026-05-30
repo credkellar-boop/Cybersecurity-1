@@ -1,5 +1,5 @@
 <p align="center">
-  <img root="1780123590153.png" alt="Cybersecurity-1 Academy Logo" width="600">
+  <img ="1780123590153.png" alt="Cybersecurity-1 Academy Logo" width="600">
 </p>
 
 </p>
